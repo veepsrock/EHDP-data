@@ -1,0 +1,229 @@
+,IndicatorName
+0,Preterm birth
+1,Very preterm birth
+2,Very low birthweight
+3,Low birthweight at full term
+4,Death (infants)
+5,Death (neonatal)
+6,Death (perinatal)
+7,Death (postneonatal)
+8,Foreign-born
+9,Household crowding
+10,Very old homes
+11,Owner-occupied homes
+12,Adults with asthma (past 12 months)
+13,Adults reporting cockroaches
+14,Adults reporting mice or rats outside
+15,Secondhand smoke at home
+16,Anencephaly
+17,Spina bifida (without anencephaly)
+18,Hypoplastic left heart syndrome
+19,Transposition of the great arteries (vessels)
+20,Cleft lip (with or without cleft palate)
+21,Cleft palate (without cleft lip)
+22,Hypospadias
+23,Gastroschisis
+24,Upper limb deficiencies
+25,Lower limb Deficiencies
+26,Down Syndrome (Mother under age 35)
+27,Down Syndrome (Mother age 35 and up)
+28,Carbon monoxide incidents
+29,Homes with cracks or holes
+30,Old homes with peeling paint
+31,Homes with leaks
+32,Homes with 3+ maintenance deficiencies
+33,Homes near structures rated good or excellent
+34,Homes using supplemental heat
+35,Homes with mice or rats in the building
+36,Ozone action days
+37,Fine particles (PM 2.5) action days
+38,Breast cancer (in females)
+39,Lung and bronchus cancer
+40,Pancreatic cancer
+41,Brain and other nervous system cancer
+42,Non-Hodgkin's lymphomas
+43,Leukemia
+44,Acute myeloid leukemia
+45,Asthma hospitalizations (age 4 and under)
+46,Regular exterminator service
+47,Air quality action days
+48,Commercial use of insecticides
+49,Commercial use of herbicides
+50,Commercial use of fungicides
+51,Commercial use of insecticides (Organophosphate)
+52,Commercial use of insecticides (Pyrethroid/Pyrethrin)
+53,Insecticides (carbamate)
+54,"Commercial use of ""Best Practice"" products"
+55,Tetralogy of Fallot
+56,Commercial use of rodenticides
+57,Neighborhood poverty
+58,Homes with cockroaches
+59,Thyroid cancer
+60,Chronic lymphocytic leukemia
+61,No smoke-free home policy
+62,Cigarette smoking (adults)
+63,Secondhand smoke at work
+64,Cigarette smoking (youth)
+65,Fine particles (PM 2.5)
+66,Black carbon
+67,Nitrogen dioxide (NO2)
+68,Sulfur dioxide (SO2)
+69,Ozone (O3)
+70,Nitric oxide (NOx)
+71,Bed bugs
+72,Leukemia (children)
+73,Brain and other nervous system cancer (children)
+74,Acute myeloid leukemia (children)
+75,Acute lymphocytic leukemia (children)
+76,All cancer (children)
+77,Nitrate
+78,Disinfection by-products (HAA5)
+79,Arsenic
+80,Asthma emergency department visits (age 4 and under)
+81,Alcohol access
+82,Heavy drinking (adults)
+83,Binge drinking (adults)
+84,Binge drinking (youth)
+85,Underage drinking
+86,Alcohol access (youth)
+87,Walking or biking for transportation
+88,Monthly bicycle use
+89,Recent exercise
+90,Overweight or obesity (adults)
+91,Overweight or obesity (youth)
+92,Obesity (adults)
+93,Obesity (youth)
+94,Restaurants with A grades
+95,Perception of neighborhood safety
+96,Heat stress: deaths
+97,Heat stress: emergency department visits
+98,Heat stress: hospitalizations
+99,Esophageal cancer
+100,Heat events
+101,Bicycle injury hospitalizations
+102,Kidney and renal pelvis cancer
+103,Larynx cancer
+104,Liver and intrahepatic bile duct cancer
+105,Melanoma of the skin
+106,Oral cavity and pharynx cancer
+107,Bicycle injury emergency department visits
+108,Pedestrian injury hospitalizations
+109,Pedestrian injury emergency department visits
+110,Mesothelioma
+111,Bladder cancer
+112,Sugary drink consumption (adults)
+113,Sugary drink consumption (youth)
+114,Mold in homes
+115,Adults with air conditioners
+116,Adults reporting mice or rats inside
+117,Deaths due to PM2.5
+118,Annual vehicle miles traveled
+119,Annual vehicle miles travelled (cars)
+120,Annual vehicle miles travelled (trucks)
+121,Asthma emergency department visits due to PM2.5
+122,Respiratory hospitalizations due to PM2.5 (age 20+)
+123,Cardiovascular hospitalizations due to PM2.5 (age 40+)
+124,Cardiac and respiratory deaths due to Ozone
+125,Asthma emergency departments visits due to Ozone
+126,Asthma hospitalizations due to Ozone
+127,Health insurance (adults)
+128,Walkability index
+129,Fall-related emergency department visits (age 65+)
+130,Fall-related hospitalizations (age 65+)
+131,Daytime summer surface temperature
+132,Vegetative cover
+133,Independent living difficulty (adults)
+134,Older adults living alone
+135,Asthma in public school children (age 5 to 14)
+136,Persistent asthma in public school children (age 5 to 14)
+137,Adults with a personal doctor
+138,Older adults with air conditioners (age 65+)
+139,Tree canopy cover
+140,Subway station density
+141,Carbon monoxide incidents (without a detector)
+142,Recent walking
+143,Recent biking
+144,Cold stress: hospitalizations
+145,Cold stress: emergency department visits
+146,Child poverty (under age 5)
+147,Renter-occupied homes with no maintenance deficiencies
+148,Sidewalk area
+149,Elevated blood levels (under age 6)
+150,Household air conditioning
+151,Homes with grab bars in bathroom (among older adult households)
+152,Lead testing (by age 3)
+153,Heat vulnerability index
+154,Disinfection by-products (TTHM)
+155,Asbestosis hospitalizations
+156,Elevated blood lead levels (age 16+)
+157,Pneumoconiosis hospitalizations
+158,Hospitalizations billed to workers' compensation
+159,Work-related deaths (all industries)
+160,"Work-related deaths (construction industry), Citywide"
+161,"Elevated blood levels (under age 6), by NTA"
+162,Babesiosis
+163,Self-reported health
+164,Adults reporting personal use of pesticides
+165,Recent driving
+166,Recent messaging while driving
+167,Recent speeding
+168,"Work-related deaths (construction industry), by borough"
+169,Commercial insecticide use
+170,Jail incarceration
+171,Premature mortality
+172,School absenteeism
+173,Race and ethnicity
+174,Graduated high school
+175,Limited English
+176,Rent-burdened households
+177,Unemployment
+178,Secondhand smoke at home (from outside sources)
+179,Youth asthma (past 12 months)
+180,West Nile virus
+181,NYC agency use of fungicides
+182,Evictions (court-ordered)
+183,"NYC agency use of ""Best Practice"" products"
+184,NYC agency use of glyphosate
+185,NYC agency use of herbicides
+186,NYC agency use of insecticides
+187,NYC agency use of rodenticides
+188,NYC agency use of mosquito control
+189,Assault hospitalizations (non-fatal)
+190,Cold stress: deaths
+191,Households using electric medical equipment
+192,"Asthma emergency department visits (age 4 and under), by NTA"
+193,Asthma emergency department visits (age 5 to 17)
+194,Asthma emergency department visits (adults)
+195,Asthma hospitalizations (age 5 to 17)
+196,Asthma hospitalizations (adults)
+197,"Asthma emergency department visits (age 5 to 17), by NTA"
+198,"Asthma emergency department visits (adults), by NTA"
+199,"Asthma hospitalizations (age 4 and under), by NTA"
+200,"Asthma hospitalizations (age 5 to 17), by NTA"
+201,"Asthma hospitalizations (adults), by NTA"
+202,Walking distance to a park
+203,Unhealthy food access
+204,Bicycle network coverage
+205,Walking distance to a subway station
+206,Children ever diagnosed with asthma
+207,Children in homes with cockroaches (age 1-13)
+208,Children in homes with mice (age 1-13)
+209,Children in homes with cracks or holes (age 1-13)
+210,Children in homes with supplemental heat (age 13 and under)
+211,Carbon monoxide deaths
+212,Renter-occupied homes with any health-related maintenance problems
+213,Assault emergency department visits (non-fatal)
+214,Postponing health care
+215,Homes with reported falls (age 65+)
+216,Carbon monoxide emergency department visits
+217,Carbon monoxide hospitalizations
+218,Home fall-related emergency department visits (age 65+)
+219,Home fall-related hospitalizations (age 65+)
+220,Heat stress: hospitalizations
+221,Heat vulnerability index (NTA)
+222,Adults with asthma
+223,Commuting modes
+224,Litter basket coverage
+225,Tobacco retailers
+226,Average Citi Bike availability
+227,Citi Bike stations

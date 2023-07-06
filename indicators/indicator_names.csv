@@ -1,0 +1,229 @@
+IndicatorID,IndicatorName
+1,Preterm birth
+2,Very preterm birth
+3,Very low birthweight
+4,Low birthweight at full term
+5,Death (infants)
+6,Death (neonatal)
+7,Death (perinatal)
+8,Death (postneonatal)
+14,Foreign-born
+15,Household crowding
+16,Very old homes
+17,Owner-occupied homes
+18,Adults with asthma (past 12 months)
+22,Adults reporting cockroaches
+24,Adults reporting mice or rats outside
+25,Secondhand smoke at home
+26,Anencephaly
+27,Spina bifida (without anencephaly)
+28,Hypoplastic left heart syndrome
+29,Transposition of the great arteries (vessels)
+30,Cleft lip (with or without cleft palate)
+31,Cleft palate (without cleft lip)
+32,Hypospadias
+33,Gastroschisis
+34,Upper limb deficiencies
+35,Lower limb Deficiencies
+36,Down Syndrome (Mother under age 35)
+37,Down Syndrome (Mother age 35 and up)
+38,Carbon monoxide incidents
+40,Homes with cracks or holes
+41,Old homes with peeling paint
+42,Homes with leaks
+45,Homes with 3+ maintenance deficiencies
+46,Homes near structures rated good or excellent
+47,Homes using supplemental heat
+48,Homes with mice or rats in the building
+55,Ozone action days
+57,Fine particles (PM 2.5) action days
+60,Breast cancer (in females)
+63,Lung and bronchus cancer
+64,Pancreatic cancer
+66,Brain and other nervous system cancer
+71,Non-Hodgkin's lymphomas
+73,Leukemia
+74,Acute myeloid leukemia
+84,Asthma hospitalizations (age 4 and under)
+91,Regular exterminator service
+92,Air quality action days
+93,Commercial use of insecticides
+94,Commercial use of herbicides
+96,Commercial use of fungicides
+97,Commercial use of insecticides (Organophosphate)
+98,Commercial use of insecticides (Pyrethroid/Pyrethrin)
+99,Insecticides (carbamate)
+100,"Commercial use of ""Best Practice"" products"
+101,Tetralogy of Fallot
+102,Commercial use of rodenticides
+103,Neighborhood poverty
+107,Homes with cockroaches
+690,Thyroid cancer
+770,Chronic lymphocytic leukemia
+2017,No smoke-free home policy
+2019,Cigarette smoking (adults)
+2020,Secondhand smoke at work
+2021,Cigarette smoking (youth)
+2023,Fine particles (PM 2.5)
+2024,Black carbon
+2025,Nitrogen dioxide (NO2)
+2026,Sulfur dioxide (SO2)
+2027,Ozone (O3)
+2028,Nitric oxide (NOx)
+2030,Bed bugs
+2031,Leukemia (children)
+2033,Brain and other nervous system cancer (children)
+2035,Acute myeloid leukemia (children)
+2037,Acute lymphocytic leukemia (children)
+2039,All cancer (children)
+2041,Nitrate
+2043,Disinfection by-products (HAA5)
+2044,Arsenic
+2048,Asthma emergency department visits (age 4 and under)
+2049,Alcohol access
+2050,Heavy drinking (adults)
+2051,Binge drinking (adults)
+2055,Binge drinking (youth)
+2056,Underage drinking
+2057,Alcohol access (youth)
+2058,Walking or biking for transportation
+2059,Monthly bicycle use
+2060,Recent exercise
+2061,Overweight or obesity (adults)
+2062,Overweight or obesity (youth)
+2063,Obesity (adults)
+2064,Obesity (youth)
+2065,Restaurants with A grades
+2073,Perception of neighborhood safety
+2074,Heat stress: deaths
+2075,Heat stress: emergency department visits
+2076,Heat stress: hospitalizations
+2077,Esophageal cancer
+2084,Heat events
+2086,Bicycle injury hospitalizations
+2087,Kidney and renal pelvis cancer
+2088,Larynx cancer
+2089,Liver and intrahepatic bile duct cancer
+2090,Melanoma of the skin
+2091,Oral cavity and pharynx cancer
+2092,Bicycle injury emergency department visits
+2093,Pedestrian injury hospitalizations
+2094,Pedestrian injury emergency department visits
+2095,Mesothelioma
+2096,Bladder cancer
+2097,Sugary drink consumption (adults)
+2098,Sugary drink consumption (youth)
+2101,Mold in homes
+2104,Adults with air conditioners
+2105,Adults reporting mice or rats inside
+2108,Deaths due to PM2.5
+2112,Annual vehicle miles traveled
+2113,Annual vehicle miles travelled (cars)
+2114,Annual vehicle miles travelled (trucks)
+2117,Asthma emergency department visits due to PM2.5
+2119,Respiratory hospitalizations due to PM2.5 (age 20+)
+2120,Cardiovascular hospitalizations due to PM2.5 (age 40+)
+2121,Cardiac and respiratory deaths due to Ozone
+2122,Asthma emergency departments visits due to Ozone
+2124,Asthma hospitalizations due to Ozone
+2132,Health insurance (adults)
+2133,Walkability index
+2135,Fall-related emergency department visits (age 65+)
+2136,Fall-related hospitalizations (age 65+)
+2141,Daytime summer surface temperature
+2143,Vegetative cover
+2145,Independent living difficulty (adults)
+2146,Older adults living alone
+2147,Asthma in public school children (age 5 to 14)
+2149,Persistent asthma in public school children (age 5 to 14)
+2151,Adults with a personal doctor
+2155,Older adults with air conditioners (age 65+)
+2157,Tree canopy cover
+2158,Subway station density
+2168,Carbon monoxide incidents (without a detector)
+2172,Recent walking
+2173,Recent biking
+2174,Cold stress: hospitalizations
+2175,Cold stress: emergency department visits
+2176,Child poverty (under age 5)
+2179,Renter-occupied homes with no maintenance deficiencies
+2181,Sidewalk area
+2184,Elevated blood levels (under age 6)
+2185,Household air conditioning
+2188,Homes with grab bars in bathroom (among older adult households)
+2189,Lead testing (by age 3)
+2191,Heat vulnerability index
+2207,Disinfection by-products (TTHM)
+2208,Asbestosis hospitalizations
+2209,Elevated blood lead levels (age 16+)
+2210,Pneumoconiosis hospitalizations
+2211,Hospitalizations billed to workers' compensation
+2214,Work-related deaths (all industries)
+2215,"Work-related deaths (construction industry), Citywide"
+2216,"Elevated blood levels (under age 6), by NTA"
+2218,Babesiosis
+2232,Self-reported health
+2235,Adults reporting personal use of pesticides
+2236,Recent driving
+2237,Recent messaging while driving
+2238,Recent speeding
+2239,"Work-related deaths (construction industry), by borough"
+2312,Commercial insecticide use
+2317,Jail incarceration
+2322,Premature mortality
+2323,School absenteeism
+2325,Race and ethnicity
+2334,Graduated high school
+2335,Limited English
+2336,Rent-burdened households
+2337,Unemployment
+2338,Secondhand smoke at home (from outside sources)
+2339,Youth asthma (past 12 months)
+2340,West Nile virus
+2364,NYC agency use of fungicides
+2365,Evictions (court-ordered)
+2366,"NYC agency use of ""Best Practice"" products"
+2367,NYC agency use of glyphosate
+2368,NYC agency use of herbicides
+2369,NYC agency use of insecticides
+2370,NYC agency use of rodenticides
+2374,NYC agency use of mosquito control
+2375,Assault hospitalizations (non-fatal)
+2376,Cold stress: deaths
+2377,Households using electric medical equipment
+2378,"Asthma emergency department visits (age 4 and under), by NTA"
+2379,Asthma emergency department visits (age 5 to 17)
+2380,Asthma emergency department visits (adults)
+2381,Asthma hospitalizations (age 5 to 17)
+2382,Asthma hospitalizations (adults)
+2383,"Asthma emergency department visits (age 5 to 17), by NTA"
+2384,"Asthma emergency department visits (adults), by NTA"
+2385,"Asthma hospitalizations (age 4 and under), by NTA"
+2386,"Asthma hospitalizations (age 5 to 17), by NTA"
+2387,"Asthma hospitalizations (adults), by NTA"
+2388,Walking distance to a park
+2389,Unhealthy food access
+2390,Bicycle network coverage
+2391,Walking distance to a subway station
+2392,Children ever diagnosed with asthma
+2393,Children in homes with cockroaches (age 1-13)
+2394,Children in homes with mice (age 1-13)
+2395,Children in homes with cracks or holes (age 1-13)
+2396,Children in homes with supplemental heat (age 13 and under)
+2398,Carbon monoxide deaths
+2399,Renter-occupied homes with any health-related maintenance problems
+2400,Assault emergency department visits (non-fatal)
+2401,Postponing health care
+2403,Homes with reported falls (age 65+)
+2405,Carbon monoxide emergency department visits
+2406,Carbon monoxide hospitalizations
+2408,Home fall-related emergency department visits (age 65+)
+2409,Home fall-related hospitalizations (age 65+)
+2410,Heat stress: hospitalizations
+2411,Heat vulnerability index (NTA)
+2414,Adults with asthma
+2415,Commuting modes
+2416,Litter basket coverage
+2421,Tobacco retailers
+2425,Average Citi Bike availability
+2426,Citi Bike stations
